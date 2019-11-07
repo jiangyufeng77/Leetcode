@@ -34,9 +34,7 @@ class Solution(object):
             return False
         else:
             return True
-
 stack1 = Solution()
 str1 = '{{'
 stack = stack1.isValid(str1)
 print(stack)
-
