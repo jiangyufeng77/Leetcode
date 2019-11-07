@@ -16,7 +16,7 @@ class Solution(object):
         for char in s:
 
             # If the character is an closing bracket
-            if char in mapping:
+            if char in mapping: # 比较的时候是比较的 hashmap 的 key
 
                 # Pop the topmost element from the stack, if it is non empty
                 # Otherwise assign a dummy value of '#' to the top_element variable
@@ -24,7 +24,7 @@ class Solution(object):
 
                 # The mapping for the opening bracket in our hash and the top
                 # element of the stack don't match, return False
-                if mapping[char] != top_element:
+                if mapping[char] != top_element:  # mapping[char] 返回的是value
                     return False
             else:
                 # We have an opening bracket, simply push it onto the stack.
