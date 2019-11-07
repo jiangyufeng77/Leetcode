@@ -20,7 +20,7 @@ class Solution(object):
 
                 # Pop the topmost element from the stack, if it is non empty
                 # Otherwise assign a dummy value of '#' to the top_element variable
-                top_element = stack.pop() if stack else '#'
+                top_element = stack.pop() if stack else '#'  # pop()存在返回值，返回的是删除的值
 
                 # The mapping for the opening bracket in our hash and the top
                 # element of the stack don't match, return False
