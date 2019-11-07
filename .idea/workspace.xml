@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a9edbf7-ed0f-4706-ac59-5bf6793616a5" name="Default Changelist" comment="有效的括号(范本)">
-      <change beforePath="$PROJECT_DIR$/20. Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/20. Valid Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20.Valid Parentheses_teach.py" beforeDir="false" afterPath="$PROJECT_DIR$/20.Valid Parentheses_teach.py" afterDir="false" />
-    </list>
+    <list default="true" id="9a9edbf7-ed0f-4706-ac59-5bf6793616a5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +28,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1" />
-          <entry key="txt" value="13" />
+          <entry key="py" value="2" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -55,10 +52,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20.Valid Parentheses_teach.py">
+        <entry file="file://$PROJECT_DIR$/20.Valid Parentheses_Official.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="700">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -80,6 +77,7 @@
       <list>
         <option value="$PROJECT_DIR$/20. Valid Parentheses.py" />
         <option value="$PROJECT_DIR$/20.Valid Parentheses_teach.py" />
+        <option value="$PROJECT_DIR$/20.Valid Parentheses_Official.py" />
       </list>
     </option>
   </component>
@@ -150,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573094163014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="有效的括号(范本)">
+      <created>1573107553577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573107553577</updated>
+    </task>
+    <task id="LOCAL-00003" summary="有效的括号(官方)">
+      <created>1573107676056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573107676056</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -188,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="有效的括号(范本)" />
-    <option name="LAST_COMMIT_MESSAGE" value="有效的括号(范本)" />
+    <MESSAGE value="有效的括号(官方)" />
+    <option name="LAST_COMMIT_MESSAGE" value="有效的括号(官方)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/20. Valid Parentheses.py">
@@ -198,10 +211,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20.Valid Parentheses_teach.py">
+    <entry file="file://$PROJECT_DIR$/20.Valid Parentheses_Official.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="700">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
