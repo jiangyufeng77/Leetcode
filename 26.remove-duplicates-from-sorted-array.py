@@ -14,7 +14,6 @@ class Solution(object):
                 t = nums[i]
         return len(nums)
 
-
 solution = Solution()
 num = [0,0,1,1,1,2,3,3,4,4]
 results = solution.removeDuplicates(num)
