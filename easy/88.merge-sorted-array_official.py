@@ -40,5 +40,3 @@ nums2 = [1]
 n = 1
 results = solution.merge(nums1, m, nums2, n)
 print(results)
-
-# 和自己写的代码无论是执行时间还是内存消耗都差不多
