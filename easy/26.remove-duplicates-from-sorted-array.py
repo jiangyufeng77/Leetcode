@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+
         if len(nums) == 0:
             return 0      # 考虑列表为空的情况
         t = nums[-1]
